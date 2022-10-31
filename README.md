@@ -1,7 +1,7 @@
 ### Hello! Moi! 👋
 
-- 🔭 I’m currently working on sharpening my skills even further as a front end developer. Hoping to expand more into back end concepts! Currently building something great.
-- 🌱 I’m currently learning more about how to create an API and create middleware for it. 
+- 🔭 Currently sharpening my skills even further as a front end developer. Hoping to expand more into back end concepts! Currently building something great.
+- 🌱 Learning more about how to create an API and create middleware for it. 
 - 📫 You can reach me [here](https://vicontiveros00.github.io/#contact).
 
 <h3 align="left">Languages and Tools:</h3>
