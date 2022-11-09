@@ -1,6 +1,7 @@
 ### Hello! Moi! 👋
 
-- 🔭 Currently sharpening my skills even further as a front end developer. Hoping to expand more into back end concepts! Currently building something great.
+- 📚 Currently working on getting certification as a front end engineer through Codecademy. My progress can be tracked [here](https://www.codecademy.com/profiles/vicontiveros)
+- 🔭 Always self-improving and learning new web development concepts through project building. Learning about wireframing and color theory nowadays. 
 - 🌱 Learning more about how to create an API and create middleware for it. 
 - 📫 You can reach me [here](https://vicontiveros00.github.io/#contact).
 
