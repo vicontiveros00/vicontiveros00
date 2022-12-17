@@ -1,4 +1,4 @@
-Hey. I like to code.
+Hey. I like to code. I'm an American React developer who somehow ended up in Finland.
 
 - 🌱 Currently working on getting certification as a front end engineer through Codecademy. My progress can be tracked [here](https://www.codecademy.com/profiles/vicontiveros).
 - 📫 You can reach me [here](https://vicontiveros00.github.io/#contact).
