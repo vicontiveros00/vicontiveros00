@@ -3,7 +3,7 @@ Hey. I like to code. I'm an American React developer who somehow ended up in Fin
 - 🌱 Currently working on getting certification as a front end engineer through Codecademy. My progress can be tracked [here](https://www.codecademy.com/profiles/vicontiveros).
 - 📫 You can reach me [here](https://vicontiveros00.github.io/#contact).
 
-[![Proof how much I love JavaScript:](https://github-readme-stats.vercel.app/api/top-langs/?username=avasdowney&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Proof how much I love JavaScript:](https://github-readme-stats.vercel.app/api/top-langs/?username=vicontiveros00&langs_count=6&hide=Assembly,jupyter%20notebook&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
