@@ -13,3 +13,7 @@ Hey. I like to code. I'm an American React developer who somehow ended up in Fin
 
 [website]: https://vicontiveros00.github.io/
 [linkedin]: https://www.linkedin.com/in/vicontiveros/
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vicontiveros00)](https://github.com/anuraghazra/github-readme-stats)
+
+
