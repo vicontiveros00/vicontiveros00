@@ -1,3 +1,1 @@
-Hey. I like to code things and compute stuff in the cloud.
-
-
+i can center a div without ai
